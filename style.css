@@ -1,0 +1,70 @@
+
+
+
+div.navegacion {
+ 
+    text-align: center;
+    background-color:skyblue;
+
+   
+}
+
+hr.especial {
+    background-color: #0000ff;
+    height: 20px;
+}
+
+.fotos {
+    height: 140px;
+    float: left;
+
+}
+footer {
+    background-color:chocolate;
+    text-align: center;
+}
+span.resaltar {
+    background-color:  goldenrod;
+}
+p.text {
+    color: #0000ff;
+}
+hr.especial2 {
+    background-color: red;
+    height: 20px;
+}
+p.text1 { 
+color: red;
+}
+img.pc {
+    height: 140px;
+    float: right;
+}
+span.tachar {
+    text-decoration: line-through
+    
+    
+}
+hr.bb {
+    height: 4px;
+    background-color: slategrey;
+
+}
+div.todo {
+    background-color: orange;
+}
+div.steve {
+    background-color: white;
+}
+.vida {
+    background-color: skyblue;
+}
+div.sc {
+    background-color: white;
+}
+h1.titulo {
+    
+    text-align: center;  
+background-color: orange;
+
+}
